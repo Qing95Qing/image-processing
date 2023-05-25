@@ -1,0 +1,7 @@
+{
+    "ENGLISH": "English",
+    "CHINESE": "Chinese",
+    "TRAIN": "Training",
+    "PREDICT": "Prediction",
+    "MODEL": "Models"
+}

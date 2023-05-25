@@ -1,0 +1,7 @@
+{
+    "ENGLISH": "英文",
+    "CHINESE": "中文简体",
+    "TRAIN": "训练",
+    "PREDICT": "推理",
+    "MODEL": "模型"
+}
