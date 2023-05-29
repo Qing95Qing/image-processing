@@ -3,4 +3,45 @@
   height: 80vh;
   margin: 0 auto;
   border: 1px dotted gray;
+  display: flex;
+  flex-direction: row;
+}
+
+.tool-bar {
+  display: flex;
+  flex-direction: column;
+  margin: 24px;
+}
+
+.op-button {
+  width: 150px;
+  margin-top: 16px;
+}
+
+
+.canvas-pane {
+  width: 800px;
+  height: 500px;
+  margin: 40px;
+  display: flex;
+  border: 2px solid rgb(203, 138, 138);
+}
+
+.canvas-container {
+  position: relative;
+}
+
+
+.image-canvas {
+  position: absolute;
+  border: 2px solid rgb(92, 113, 173);
+  left: 50px;
+  top: 40px;
+}
+
+.draw-canvas {
+  position: absolute;
+  border: 2px solid rgb(92, 113, 173);
+  left: 50px;
+  top: 40px;
 }
